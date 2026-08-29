@@ -1,0 +1,63 @@
+about:
+  description: Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+  license: MIT
+  homepage: https://nanobot.wiki
+  head: caab883
+  archived: false
+  latestVersion: v0.3.0
+  collectedAt: 2026-08-29T07:21:05Z
+timeline:
+  created: 2026-02-01
+  lastCommit: 2026-08-29
+  lastRelease: 2026-07-25
+popularity:
+  star: 47515
+  watcher: 206
+  fork: 8382
+  release: 19
+  contributor: 375
+  pullRequest: 2192
+  issue: 1477
+language:
+  Python: 9569949
+  TypeScript: 3746909
+  CSS: 22715
+  Shell: 20706
+  JavaScript: 11581
+  PowerShell: 11464
+  HTML: 7317
+  Dockerfile: 3275
+totalLine: 13393916
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 198
+    openPR: 95
+    closedIssue: 32
+    openIssue: 41
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 676
+    openPR: 174
+    closedIssue: 207
+    openIssue: 74
+    commit: 0
+  last180d:
+    since: 2026-03-02
+    release: 11
+    mergedPR: 1385
+    openPR: 458
+    closedIssue: 854
+    openIssue: 177
+    commit: 0
+  last360d:
+    since: 2025-09-03
+    release: 19
+    mergedPR: 1590
+    openPR: 545
+    closedIssue: 1264
+    openIssue: 213
+    commit: 0
