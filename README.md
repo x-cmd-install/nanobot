@@ -5,9 +5,9 @@ Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
 - **Upstream**: <https://github.com/HKUDS/nanobot>
 - **Homepage**: <https://nanobot.wiki>
 - **Latest release**: `v0.3.0` (2026-07-25)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 47878 · **Forks**: 8453 · **Open issues**: 1485 · **Contributors**: 385
+- **Stars**: 47907 · **Forks**: 8460 · **Open issues**: 1485 · **Contributors**: 385
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/nanobot> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:19:14Z._
+_Last regenerated: 2026-09-09T03:46:01Z._
