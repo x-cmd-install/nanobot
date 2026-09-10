@@ -12,6 +12,18 @@ Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
 x install nanobot
 ```
 
+## Code insight
+
+Total: **377,798** lines of code across **1259** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 232,644 | 4,132 | 43,073 | 733 |
+| Tsx | 69,370 | 177 | 5,220 | 155 |
+| TypeScript | 38,164 | 780 | 3,435 | 189 |
+| Json | 34,727 | 0 | 4 | 181 |
+| Css | 1,034 | 53 | 123 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/HKUDS/nanobot>
@@ -25,7 +37,7 @@ x install nanobot
 
 ## Popularity
 
-- **Stars**: 47,982 · **Forks**: 8,475 · **Open issues**: 1,488 · **Contributors**: 389
+- **Stars**: 47,989 · **Forks**: 8,476 · **Open issues**: 1,488 · **Contributors**: 389
 
 ## Totals (cumulative)
 
@@ -36,20 +48,11 @@ x install nanobot
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 194 | 90 | 31 | 24 | 397 |
+| last60d | 2026-07-12 | 1 | 476 | 128 | 75 | 40 | 864 |
 | 90d | 2026-06-12 | 2 | 682 | 177 | 188 | 62 | 1401 |
+| last180d | 2026-03-14 | 10 | 1369 | 359 | 734 | 142 | 2890 |
 | 360d | 2025-09-15 | 19 | 1678 | 560 | 1280 | 208 | 3722 |
-
-## Code size
-
-Total: **377,798** lines of code across **1259** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 232,644 | 4,132 | 43,073 | 733 |
-| Tsx | 69,370 | 177 | 5,220 | 155 |
-| TypeScript | 38,164 | 780 | 3,435 | 189 |
-| Json | 34,727 | 0 | 4 | 181 |
-| Css | 1,034 | 53 | 123 | 1 |
+| last720d | 2024-09-20 | 19 | 1678 | 560 | 1280 | 208 | 4368 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for nanobot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:13:42Z._
