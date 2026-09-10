@@ -1,24 +1,64 @@
 # nanobot
 
+[中文版本](./README.cn.md)
+
 Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 
-- **Upstream**: <https://github.com/HKUDS/nanobot>
-- **Homepage**: <https://nanobot.wiki>
-- **Latest release**: `v0.3.0` (2026-07-25)
-- **Last commit**: 2026-09-09
-- **License**: MIT
-- **Stars**: 47941 · **Forks**: 8466 · **Open issues**: 1486 · **Contributors**: 387
+![nanobot](https://repo.x-cmd.io/nanobot.svg)
 
-## Installation
+## Install
 
 ```sh
 x install nanobot
 ```
 
-See <https://x-cmd.com/install/nanobot> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/HKUDS/nanobot>
+- **Homepage**: <https://nanobot.wiki>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:28:40Z._
+- **Latest**: `v0.3.0` (2026-07-25)
+- **Last commit**: 2026-09-10
+- **Published**: 2026-07-25T08:08:47Z
+
+## Popularity
+
+- **Stars**: 47,957 · **Forks**: 8,470 · **Open issues**: 1,487 · **Contributors**: 388
+
+## Totals (cumulative)
+
+- **Releases**: 19 · **Merged PRs**: 1672 · **Open PRs**: 563 · **Closed issues**: 1280 · **Open issues**: 207 · **Commits**: 4359
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 188 | 93 | 31 | 23 | 0 |
+| 90d | 2026-06-12 | 2 | 676 | 180 | 188 | 61 | 0 |
+| 360d | 2025-09-15 | 19 | 1672 | 563 | 1280 | 207 | 0 |
+
+## Code size
+
+Total: **376,612** lines of code across **1259** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 231,564 | 4,125 | 42,954 | 733 |
+| Tsx | 69,339 | 177 | 5,207 | 155 |
+| TypeScript | 38,182 | 795 | 3,437 | 189 |
+| Json | 34,727 | 0 | 4 | 181 |
+| Css | 941 | 51 | 109 | 1 |
+
+## Improve this data
+
+Install metadata for nanobot lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nanobot` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/nanobot.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T03:43:32Z._
