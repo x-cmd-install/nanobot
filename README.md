@@ -37,7 +37,7 @@ Total: **377,798** lines of code across **1259** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,989 · **Forks**: 8,476 · **Open issues**: 1,488 · **Contributors**: 389
+- **Stars**: 47,992 · **Forks**: 8,477 · **Open issues**: 1,488 · **Contributors**: 389
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for nanobot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:13:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:38:33Z._
