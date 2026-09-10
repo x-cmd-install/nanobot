@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.0"
   latestRelease: "v0.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:13:28Z
+  collectedAt: 2026-09-10T23:38:21Z
 timeline:
   created: 2026-02-01
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-07-25
   lastPrerelease: 
 popularity:
-  star: 47989
+  star: 47992
   watcher: 215
-  fork: 8476
+  fork: 8477
   release: 19
   contributor: 389
   pullRequest: 3899
@@ -90,7 +90,7 @@ total:
   commit: 4368
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/nanobot
-collectedAt: 2026-09-10T20:13:36Z
+collectedAt: 2026-09-10T23:38:28Z
 loc:
   Python:
     code: 232644
