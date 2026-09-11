@@ -2,12 +2,12 @@ about:
   description: "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps"
   license: MIT
   homepage: https://nanobot.wiki
-  head: aeb7b20
+  head: 19c3db5
   archived: false
   latestVersion: "v0.3.0"
   latestRelease: "v0.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T03:40:55Z
+  collectedAt: 2026-09-11T20:41:01Z
 timeline:
   created: 2026-02-01
   lastCommit: 2026-09-11
@@ -15,117 +15,117 @@ timeline:
   lastRelease: 2026-07-25
   lastPrerelease: 
 popularity:
-  star: 48004
+  star: 48031
   watcher: 215
-  fork: 8483
+  fork: 8494
   release: 19
   contributor: 390
-  pullRequest: 3902
-  issue: 1488
+  pullRequest: 3917
+  issue: 1489
 language:
-  Python: 10124455
-  TypeScript: 4021696
-  CSS: 33276
-  Shell: 20706
-  JavaScript: 11701
+  Python: 10200120
+  TypeScript: 4165294
+  CSS: 33024
+  Shell: 18164
+  JavaScript: 13557
   PowerShell: 11464
   HTML: 7317
   Dockerfile: 3333
-totalBytes: 14233948
+totalBytes: 14452273
 recent:
   last30d:
     since: 2026-08-12
     release: 0
-    mergedPR: 188
-    openPR: 86
-    closedIssue: 32
+    mergedPR: 198
+    openPR: 90
+    closedIssue: 33
     openIssue: 21
-    commit: 401
+    commit: 414
   last60d:
     since: 2026-07-13
     release: 1
-    mergedPR: 460
-    openPR: 130
-    closedIssue: 75
+    mergedPR: 471
+    openPR: 132
+    closedIssue: 76
     openIssue: 39
-    commit: 868
+    commit: 881
   last90d:
     since: 2026-06-13
     release: 2
-    mergedPR: 675
-    openPR: 178
-    closedIssue: 187
+    mergedPR: 686
+    openPR: 180
+    closedIssue: 188
     openIssue: 61
-    commit: 1405
+    commit: 1418
   last180d:
     since: 2026-03-15
     release: 10
-    mergedPR: 1363
-    openPR: 354
-    closedIssue: 727
+    mergedPR: 1374
+    openPR: 356
+    closedIssue: 728
     openIssue: 140
-    commit: 2894
+    commit: 2907
   last360d:
     since: 2025-09-16
     release: 19
-    mergedPR: 1679
-    openPR: 562
-    closedIssue: 1281
+    mergedPR: 1690
+    openPR: 564
+    closedIssue: 1282
     openIssue: 207
-    commit: 3726
+    commit: 3739
   last720d:
     since: 2024-09-21
     release: 19
-    mergedPR: 1679
-    openPR: 562
-    closedIssue: 1281
+    mergedPR: 1690
+    openPR: 564
+    closedIssue: 1282
     openIssue: 207
-    commit: 4372
+    commit: 4385
 total:
   release: 19
-  mergedPR: 1679
-  openPR: 562
-  closedIssue: 1281
+  mergedPR: 1690
+  openPR: 564
+  closedIssue: 1282
   openIssue: 207
-  commit: 4372
+  commit: 4385
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/nanobot
-collectedAt: 2026-09-11T03:41:01Z
+collectedAt: 2026-09-11T20:41:07Z
 loc:
   Python:
-    code: 232823
-    comments: 4138
-    blanks: 43127
-    files: 734
+    code: 234475
+    comments: 4149
+    blanks: 43384
+    files: 737
   Tsx:
-    code: 69370
-    comments: 177
-    blanks: 5220
-    files: 155
-  TypeScript:
-    code: 38164
-    comments: 780
-    blanks: 3435
-    files: 189
+    code: 71980
+    comments: 202
+    blanks: 5382
+    files: 171
   Json:
-    code: 34727
+    code: 39769
     comments: 0
     blanks: 4
-    files: 181
+    files: 191
+  TypeScript:
+    code: 38297
+    comments: 780
+    blanks: 3459
+    files: 190
   Css:
     code: 1034
     comments: 53
     blanks: 123
     files: 1
   Sh:
-    code: 585
-    comments: 26
-    blanks: 106
-    files: 6
+    code: 510
+    comments: 25
+    blanks: 92
+    files: 5
   JavaScript:
-    code: 348
-    comments: 2
-    blanks: 5
+    code: 395
+    comments: 6
+    blanks: 10
     files: 4
   PowerShell:
     code: 303
@@ -159,8 +159,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 9423
-    blanks: 3881
+    comments: 9352
+    blanks: 3870
     files: 98
   Text:
     code: 0
@@ -168,10 +168,10 @@ loc:
     blanks: 166
     files: 2
 total:
-  code: 382052
-  comments: 15588
-  blanks: 56318
-  files: 1383
+  code: 391461
+  comments: 15556
+  blanks: 56741
+  files: 1412
 ---
 
 ---
