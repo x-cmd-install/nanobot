@@ -37,7 +37,7 @@ Total: **387,386** lines of code across **1290** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 48,031 · **Forks**: 8,494 · **Open issues**: 1,489 · **Contributors**: 390
+- **Stars**: 48,037 · **Forks**: 8,493 · **Open issues**: 1,489 · **Contributors**: 390
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **387,386** lines of code across **1290** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 198 | 90 | 33 | 21 | 414 |
-| last60d | 2026-07-13 | 1 | 471 | 132 | 76 | 39 | 881 |
-| 90d | 2026-06-13 | 2 | 686 | 180 | 188 | 61 | 1418 |
-| last180d | 2026-03-15 | 10 | 1374 | 356 | 728 | 140 | 2907 |
-| 360d | 2025-09-16 | 19 | 1690 | 564 | 1282 | 207 | 3739 |
-| last720d | 2024-09-21 | 19 | 1690 | 564 | 1282 | 207 | 4385 |
+| 30d | 2026-08-13 | 0 | 189 | 83 | 29 | 19 | 414 |
+| last60d | 2026-07-14 | 1 | 459 | 131 | 74 | 39 | 881 |
+| 90d | 2026-06-14 | 2 | 680 | 179 | 188 | 61 | 1418 |
+| last180d | 2026-03-16 | 10 | 1367 | 345 | 716 | 138 | 2907 |
+| 360d | 2025-09-17 | 19 | 1690 | 564 | 1282 | 207 | 3739 |
+| last720d | 2024-09-22 | 19 | 1690 | 564 | 1282 | 207 | 4385 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for nanobot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:41:11Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T03:44:51Z._
