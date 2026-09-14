@@ -14,15 +14,15 @@ x install nanobot
 
 ## Code insight
 
-Total: **391,986** lines of code across **1301** files in the top 5 languages.
+Total: **393,484** lines of code across **1306** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 236,164 | 4,152 | 43,594 | 739 |
-| Tsx | 74,064 | 208 | 5,507 | 176 |
-| Json | 40,189 | 0 | 4 | 191 |
-| TypeScript | 38,585 | 783 | 3,490 | 194 |
-| Css | 1,153 | 54 | 123 | 1 |
+| Tsx | 75,171 | 218 | 5,595 | 178 |
+| Json | 40,219 | 0 | 4 | 191 |
+| TypeScript | 38,963 | 793 | 3,520 | 197 |
+| Css | 1,136 | 58 | 119 | 1 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **391,986** lines of code across **1301** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.0` (2026-07-25)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 48,068 · **Forks**: 8,501 · **Open issues**: 1,491 · **Contributors**: 391
+- **Stars**: 48,122 · **Forks**: 8,503 · **Open issues**: 1,491 · **Contributors**: 391
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1695 · **Open PRs**: 559 · **Closed issues**: 1283 · **Open issues**: 208 · **Commits**: 4403
+- **Releases**: 19 · **Merged PRs**: 1698 · **Open PRs**: 561 · **Closed issues**: 1283 · **Open issues**: 208 · **Commits**: 4412
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 191 | 77 | 29 | 20 | 427 |
-| last60d | 2026-07-15 | 1 | 458 | 125 | 74 | 40 | 894 |
-| 90d | 2026-06-15 | 2 | 676 | 173 | 188 | 62 | 1431 |
-| last180d | 2026-03-17 | 9 | 1366 | 333 | 702 | 132 | 2920 |
-| 360d | 2025-09-18 | 19 | 1695 | 559 | 1283 | 208 | 3752 |
-| last720d | 2024-09-23 | 19 | 1695 | 559 | 1283 | 208 | 4403 |
+| 30d | 2026-08-15 | 0 | 190 | 78 | 29 | 20 | 290 |
+| last60d | 2026-07-16 | 1 | 452 | 126 | 73 | 40 | 832 |
+| 90d | 2026-06-16 | 2 | 668 | 174 | 184 | 62 | 1296 |
+| last180d | 2026-03-18 | 9 | 1361 | 333 | 691 | 130 | 2843 |
+| 360d | 2025-09-19 | 19 | 1698 | 561 | 1283 | 208 | 3766 |
+| last720d | 2024-09-24 | 19 | 1698 | 561 | 1283 | 208 | 4412 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for nanobot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T03:52:46Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:00:02Z._
