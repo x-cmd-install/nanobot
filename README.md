@@ -14,15 +14,15 @@ x install nanobot
 
 ## Code insight
 
-Total: **394,547** lines of code across **1309** files in the top 5 languages.
+Total: **396,472** lines of code across **1319** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 237,127 | 4,171 | 43,684 | 742 |
-| Tsx | 75,258 | 218 | 5,604 | 178 |
-| Json | 40,219 | 0 | 4 | 191 |
-| TypeScript | 38,963 | 793 | 3,520 | 197 |
-| Css | 1,148 | 60 | 121 | 1 |
+| Python | 238,782 | 4,188 | 43,947 | 751 |
+| Tsx | 75,465 | 218 | 5,629 | 179 |
+| Json | 40,269 | 0 | 4 | 191 |
+| TypeScript | 38,965 | 794 | 3,520 | 197 |
+| Css | 1,159 | 60 | 122 | 1 |
 
 ## Source
 
@@ -32,27 +32,43 @@ Total: **394,547** lines of code across **1309** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.3.0` (2026-07-25)
+- **Latest**: `v0.3.5` (2026-09-15)
 - **Last commit**: 2026-09-15
+- **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 48,156 · **Forks**: 8,511 · **Open issues**: 1,494 · **Contributors**: 394
+- **Stars**: 48,199 · **Forks**: 8,518 · **Open issues**: 1,497 · **Contributors**: 395
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 1707 · **Open PRs**: 564 · **Closed issues**: 1283 · **Open issues**: 211 · **Commits**: 4424
+- **Releases**: 20 · **Merged PRs**: 1716 · **Open PRs**: 566 · **Closed issues**: 1283 · **Open issues**: 214 · **Commits**: 4441
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 198 | 79 | 29 | 21 | 302 |
-| last60d | 2026-07-17 | 1 | 456 | 129 | 71 | 43 | 844 |
-| 90d | 2026-06-17 | 2 | 672 | 176 | 180 | 63 | 1308 |
-| last180d | 2026-03-19 | 9 | 1360 | 334 | 681 | 132 | 2855 |
-| 360d | 2025-09-20 | 19 | 1707 | 564 | 1283 | 211 | 3778 |
-| last720d | 2024-09-25 | 19 | 1707 | 564 | 1283 | 211 | 4424 |
+| 30d | 2026-08-17 | 1 | 203 | 77 | 28 | 24 | 319 |
+| last60d | 2026-07-18 | 2 | 458 | 131 | 69 | 46 | 861 |
+| 90d | 2026-06-18 | 3 | 671 | 175 | 179 | 66 | 1325 |
+| last180d | 2026-03-20 | 10 | 1362 | 335 | 676 | 132 | 2872 |
+| 360d | 2025-09-21 | 20 | 1716 | 566 | 1283 | 214 | 3795 |
+| last720d | 2024-09-26 | 20 | 1716 | 566 | 1283 | 214 | 4441 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [nanobot-tui-darwin-arm64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-darwin-arm64.zip) | 24.1 MiB | `native/darwin/arm64` |
+| [nanobot-tui-darwin-arm64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-darwin-arm64.zip.sha256) | 95 B | `native/darwin/arm64` |
+| [nanobot-tui-darwin-x64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-darwin-x64.zip) | 26.8 MiB | `native/darwin/x64` |
+| [nanobot-tui-darwin-x64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-darwin-x64.zip.sha256) | 93 B | `native/darwin/x64` |
+| [nanobot-tui-linux-arm64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-linux-arm64.zip) | 41.1 MiB | `native/linux/arm64` |
+| [nanobot-tui-linux-arm64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-linux-arm64.zip.sha256) | 94 B | `native/linux/arm64` |
+| [nanobot-tui-linux-x64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-linux-x64.zip) | 41.3 MiB | `other` |
+| [nanobot-tui-linux-x64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-linux-x64.zip.sha256) | 92 B | `other` |
+| [nanobot-tui-win32-x64.exe.zip](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-win32-x64.exe.zip) | 42.3 MiB | `native/win/x64` |
+| [nanobot-tui-win32-x64.exe.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.3.5/nanobot-tui-win32-x64.exe.zip.sha256) | 96 B | `native/win/x64` |
 
 ## Improve this data
 
@@ -63,4 +79,4 @@ Install metadata for nanobot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T03:59:42Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T03:57:16Z._
