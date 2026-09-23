@@ -4,7 +4,7 @@
 
 Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 
-[![x-cmd/install — nanobot Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nanobot.svg?lang=zh)](https://x-cmd.com/install/nanobot)
+[![x-cmd/install — nanobot Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nanobot.svg?lang=zh)](https://x-cmd.com/install/nanobot)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install nanobot
 
 ## 代码洞察
 
-合计: **404,941** 行代码（覆盖前 5 种语言、共 **1373** 个文件）。
+合计: **405,900** 行代码（覆盖前 5 种语言、共 **1373** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 242,212 | 4,215 | 44,555 | 774 |
-| Tsx | 78,305 | 240 | 5,818 | 194 |
-| Json | 41,181 | 0 | 4 | 201 |
-| TypeScript | 40,241 | 778 | 3,603 | 203 |
-| Css | 1,159 | 60 | 122 | 1 |
+| Python | 242,335 | 4,215 | 44,574 | 774 |
+| Tsx | 78,999 | 242 | 5,844 | 194 |
+| Json | 41,231 | 0 | 4 | 201 |
+| TypeScript | 40,287 | 778 | 3,609 | 203 |
+| Css | 1,205 | 60 | 130 | 1 |
 
 ## 源代码
 
@@ -33,27 +33,27 @@ x install nanobot
 ## 发布
 
 - **最新版本**: `v0.3.5` (2026-09-15)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 48,469 · **Fork**: 8,566 · **开放 issue**: 1,504 · **贡献者**: 399
+- **Star**: 48,491 · **Fork**: 8,569 · **开放 issue**: 1,506 · **贡献者**: 400
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 1745 · **开放 PR**: 587 · **已关闭 issue**: 1289 · **开放 issue**: 215 · **提交数**: 4511
+- **发布数**: 20 · **已合并 PR**: 1753 · **开放 PR**: 591 · **已关闭 issue**: 1289 · **开放 issue**: 217 · **提交数**: 4524
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 185 | 89 | 24 | 23 | 283 |
-| last60d | 2026-07-24 | 2 | 417 | 155 | 65 | 47 | 760 |
-| 90d | 2026-06-24 | 2 | 663 | 192 | 162 | 63 | 1270 |
-| last180d | 2026-03-26 | 10 | 1353 | 322 | 643 | 122 | 2861 |
-| 360d | 2025-09-27 | 20 | 1745 | 587 | 1289 | 215 | 3865 |
-| last720d | 2024-10-02 | 20 | 1745 | 587 | 1289 | 215 | 4511 |
+| 30d | 2026-08-24 | 1 | 183 | 92 | 20 | 22 | 296 |
+| last60d | 2026-07-25 | 2 | 421 | 159 | 65 | 49 | 773 |
+| 90d | 2026-06-25 | 2 | 662 | 194 | 152 | 64 | 1283 |
+| last180d | 2026-03-27 | 10 | 1351 | 322 | 631 | 122 | 2874 |
+| 360d | 2025-09-28 | 20 | 1753 | 591 | 1289 | 217 | 3878 |
+| last720d | 2024-10-03 | 20 | 1753 | 591 | 1289 | 217 | 4524 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ nanobot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T03:56:54Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T03:54:41Z._
