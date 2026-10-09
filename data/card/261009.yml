@@ -1,0 +1,177 @@
+about:
+  description: "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps"
+  license: MIT
+  homepage: https://nanobot.wiki
+  head: 24a5c6d
+  archived: false
+  latestVersion: "v0.3.5"
+  latestRelease: "v0.3.5"
+  latestPrerelease: ""
+  collectedAt: 2026-10-09T05:12:04Z
+timeline:
+  created: 2026-02-01
+  lastCommit: 2026-10-09
+  lastVersion: 2026-09-15
+  lastRelease: 2026-09-15
+  lastPrerelease: 
+popularity:
+  star: 48883
+  watcher: 219
+  fork: 8618
+  release: 20
+  contributor: 408
+  pullRequest: 4174
+  issue: 1537
+language:
+  Python: 11523254
+  TypeScript: 5721317
+  CSS: 51215
+  Shell: 18164
+  JavaScript: 14013
+  PowerShell: 11464
+  HTML: 8494
+  Dockerfile: 3373
+totalBytes: 17351294
+recent:
+  last30d:
+    since: 2026-09-09
+    release: 1
+    mergedPR: 188
+    openPR: 88
+    closedIssue: 25
+    openIssue: 29
+    commit: 393
+  last60d:
+    since: 2026-08-10
+    release: 1
+    mergedPR: 397
+    openPR: 156
+    closedIssue: 64
+    openIssue: 42
+    commit: 855
+  last90d:
+    since: 2026-07-11
+    release: 2
+    mergedPR: 673
+    openPR: 185
+    closedIssue: 111
+    openIssue: 56
+    commit: 1310
+  last180d:
+    since: 2026-04-12
+    release: 8
+    mergedPR: 1318
+    openPR: 306
+    closedIssue: 510
+    openIssue: 107
+    commit: 2802
+  last360d:
+    since: 2025-10-14
+    release: 20
+    mergedPR: 1870
+    openPR: 594
+    closedIssue: 1321
+    openIssue: 216
+    commit: 4126
+  last720d:
+    since: 2024-10-19
+    release: 20
+    mergedPR: 1870
+    openPR: 594
+    closedIssue: 1321
+    openIssue: 216
+    commit: 4780
+total:
+  release: 20
+  mergedPR: 1870
+  openPR: 594
+  closedIssue: 1321
+  openIssue: 216
+  commit: 4780
+---
+path: /home/runner/.x-repo/github.com/HKUDS/nanobot
+collectedAt: 2026-10-09T05:12:13Z
+loc:
+  Python:
+    code: 260243
+    comments: 4468
+    blanks: 46868
+    files: 848
+  Tsx:
+    code: 93608
+    comments: 409
+    blanks: 6673
+    files: 261
+  Json:
+    code: 47157
+    comments: 0
+    blanks: 4
+    files: 201
+  TypeScript:
+    code: 44114
+    comments: 871
+    blanks: 3932
+    files: 258
+  Css:
+    code: 1571
+    comments: 82
+    blanks: 186
+    files: 4
+  Sh:
+    code: 510
+    comments: 25
+    blanks: 92
+    files: 5
+  JavaScript:
+    code: 407
+    comments: 8
+    blanks: 10
+    files: 4
+  PowerShell:
+    code: 303
+    comments: 0
+    blanks: 43
+    files: 1
+  Svg:
+    code: 277
+    comments: 0
+    blanks: 0
+    files: 10
+  Toml:
+    code: 169
+    comments: 11
+    blanks: 17
+    files: 1
+  Yaml:
+    code: 90
+    comments: 30
+    blanks: 6
+    files: 3
+  Html:
+    code: 53
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 48
+    comments: 20
+    blanks: 14
+    files: 1
+  Markdown:
+    code: 0
+    comments: 11074
+    blanks: 4244
+    files: 104
+  Text:
+    code: 0
+    comments: 835
+    blanks: 171
+    files: 3
+total:
+  code: 452670
+  comments: 17945
+  blanks: 62426
+  files: 1705
+---
+
+---
