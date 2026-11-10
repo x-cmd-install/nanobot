@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 27993951,
       "digest": "sha256:0b73048574afc71d3006645b2ef2433b6eeaffd3a7fe3955bbdacf63fb261f5c",
-      "download_count": 18,
+      "download_count": 29,
       "created_at": "2026-11-06T15:34:59Z",
       "updated_at": "2026-11-06T15:37:35Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-darwin-arm64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:a3b4c9a70eeb7a0a241b769dd6e0c35b4ff15059d3edbd5087dd631b54fc7a6b",
-      "download_count": 10,
+      "download_count": 18,
       "created_at": "2026-11-06T15:27:10Z",
       "updated_at": "2026-11-06T15:27:10Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-darwin-arm64.zip.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 30534980,
       "digest": "sha256:06db68d329da071cc530a59cd316ff0fb27df78925aad4fc4bf3bc182ba0d0f7",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-11-06T15:34:59Z",
       "updated_at": "2026-11-06T15:37:46Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-darwin-x64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 47440359,
       "digest": "sha256:86c6b9a1131135afbe50fdb8acba22a5648214e4e0c29fd3f94bb2e0105adb76",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-11-06T15:34:59Z",
       "updated_at": "2026-11-06T15:40:22Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-linux-arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 94,
       "digest": "sha256:912340704630cc32f26a7eb2708b8e97f32edabd59e17ed292353e6336191401",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-06T15:27:16Z",
       "updated_at": "2026-11-06T15:27:16Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-linux-arm64.zip.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 47851474,
       "digest": "sha256:14ddc6a832c75e05a3835754e15b9152f59fed808e2e663561bde73f98a1e1e0",
-      "download_count": 8,
+      "download_count": 14,
       "created_at": "2026-11-06T15:34:59Z",
       "updated_at": "2026-11-06T15:39:27Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-linux-x64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 46927590,
       "digest": "sha256:87667f83966a6cc8abcb913beb862d6ad618a5664caa566a807bc51807970b1d",
-      "download_count": 25,
+      "download_count": 50,
       "created_at": "2026-11-06T15:34:59Z",
       "updated_at": "2026-11-06T15:41:20Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-win32-x64.exe.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 44161781,
       "digest": "sha256:62c74a28467f6516099af8aa02f2b110356ee4deff78da36955cfefc1fd3b678",
-      "download_count": 6,
+      "download_count": 10,
       "created_at": "2026-11-06T15:37:37Z",
       "updated_at": "2026-11-06T15:41:52Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-macosx_13_0_arm64.whl"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 46765483,
       "digest": "sha256:db7661aeae646a17374c5be1a422ec4eb4e5b802cabd1a229b3129dba5189267",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-06T15:37:47Z",
       "updated_at": "2026-11-06T15:42:04Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-macosx_13_0_x86_64.whl"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 63681900,
       "digest": "sha256:04ee75e800efea82f3e7c4fbedfd492bd47d44b861eac2c86910577aefb8770d",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-06T15:39:28Z",
       "updated_at": "2026-11-06T15:44:52Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-manylinux_2_17_aarch64.whl"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 64147269,
       "digest": "sha256:5eadd2f105481965e83f37e808593bc4cc8efcf81adb646abc01598afc2fe0de",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-06T15:40:23Z",
       "updated_at": "2026-11-06T15:51:29Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-manylinux_2_17_x86_64.whl"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 63251352,
       "digest": "sha256:3b64980205d4ec688957f94861f5bd1fef9cda10830b68b4ad00c1b69272dd3e",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-06T15:41:21Z",
       "updated_at": "2026-11-06T15:54:47Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-win_amd64.whl"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3036,
       "digest": "sha256:dd67ea8734400f11ea8e7bcd45bbc19259bb169f7c8fa1a52a59582618dd6e3c",
-      "download_count": 18,
+      "download_count": 27,
       "created_at": "2026-11-06T15:42:05Z",
       "updated_at": "2026-11-06T15:42:05Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.1/release-manifest.json"
@@ -654,14 +654,14 @@
   "body": "## Changes\n\n- Fix TLS certificate verification, sandboxed shell execution and workspace permissions for queued inputs.\n- Keep idle maintenance from blocking active work or incorrectly refusing an update. Improve retry, reconnection and recovery behavior, and preserve native provider state through compaction.\n- Add a file-context graph with file previews, local Markdown links and recent context snapshots. Switching topics keeps each conversation's context separate.\n- Share syntax highlighting across code, source previews and read-only diffs, with complete source copying and plain-text fallbacks.\n- Reduce unnecessary memory copies in file reads, session history and provider requests. Improve navigation, context-usage display, history loading and skill-source identification.\n- Retain legacy history and proxy migration throughout 0.4.x, including original workspace ownership for unmigrated conversations.\n\n## Upgrade notes\n\n- Stop affected processes and back up configuration and conversations before an external upgrade. Use the original installer, package manager or container workflow, then verify the running version, old conversations, a new message and another restart. See [Updating nanobot](https://github.com/HKUDS/nanobot/blob/v0.4.1/docs/updating.md).\n- **0.3.5 can upgrade directly to 0.4.1 through its original installation method.** No intermediate 0.4.0 installation is required. Legacy JSONL and proxy importers remain available throughout 0.4.x and are scheduled for removal in 0.5.0; retain original files and migration backups.\n- **0.4.1 is the final release accepting the temporary OpenAI `apiType` / `api_type` conversion introduced in 0.4.0.** Save the migrated `api` configuration and replace old environment variables before a later upgrade; saving configuration does not rewrite the process environment.\n- Managed program recovery is conditional and does not restore old chats over current data. Changed data can prevent safe program rollback; other installation owners retain their repair route.\n- **In-app automatic installation is not enabled for this version.** Publishing packages does not enable release approval proof, change update subscriptions or activate a public Preview feed.\n- Large or growing graphs and very large diffs can still be less responsive on slower devices. The memory changes are not a general latency guarantee; missing historical graph snapshots are not reconstructed from current files.\n\n## Packages and verification\n\nThe platform wheels include the built WebUI and matching native TUI. Native installation, terminal and update/recovery checks passed on macOS arm64/x64, Linux arm64/x64 and Windows x64. Original public 0.3.5 and 0.4.0 upgrade paths were additionally tested on macOS with disposable data; this is not a guarantee for every environment.\n\nPackages are attached below and available on [PyPI](https://pypi.org/project/nanobot-ai/0.4.1/).\n\n**Full Changelog**: https://github.com/HKUDS/nanobot/compare/v0.4.0...v0.4.1\n",
   "reactions": {
     "url": "https://api.github.com/repos/HKUDS/nanobot/releases/436661735/reactions",
-    "total_count": 3,
-    "+1": 1,
+    "total_count": 5,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 2,
+    "rocket": 3,
     "eyes": 0
   }
 }
