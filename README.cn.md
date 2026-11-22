@@ -14,13 +14,13 @@ x install nanobot
 
 ## 代码洞察
 
-合计: **580,399** 行代码（覆盖前 5 种语言、共 **2258** 个文件）。
+合计: **580,420** 行代码（覆盖前 5 种语言、共 **2258** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 317,629 | 3,144 | 54,013 | 1085 |
-| Tsx | 122,192 | 553 | 8,361 | 460 |
-| TypeScript | 69,522 | 1,140 | 5,630 | 448 |
+| Python | 317,616 | 3,144 | 54,007 | 1085 |
+| Tsx | 122,201 | 554 | 8,361 | 460 |
+| TypeScript | 69,547 | 1,141 | 5,632 | 448 |
 | Json | 64,031 | 0 | 4 | 246 |
 | Css | 3,397 | 73 | 322 | 19 |
 
@@ -32,50 +32,50 @@ x install nanobot
 
 ## 发布
 
-- **最新版本**: `v0.4.1` (2026-11-06)
-- **最近提交**: 2026-11-20
+- **最新版本**: `v0.4.2` (2026-11-21)
+- **最近提交**: 2026-11-21
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 50,243 · **Fork**: 8,757 · **开放 issue**: 1,621 · **贡献者**: 456
+- **Star**: 50,257 · **Fork**: 8,758 · **开放 issue**: 1,621 · **贡献者**: 456
 
 ## 累计统计
 
-- **发布数**: 22 · **已合并 PR**: 2288 · **开放 PR**: 641 · **已关闭 issue**: 1390 · **开放 issue**: 231 · **提交数**: 5391
+- **发布数**: 23 · **已合并 PR**: 2291 · **开放 PR**: 644 · **已关闭 issue**: 1390 · **开放 issue**: 231 · **提交数**: 5394
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 226 | 30 | 32 | 29 | 333 |
-| last60d | 2026-09-22 | 2 | 539 | 145 | 71 | 46 | 846 |
-| 90d | 2026-08-23 | 3 | 747 | 198 | 104 | 61 | 1210 |
-| last180d | 2026-05-25 | 6 | 1402 | 302 | 364 | 108 | 2681 |
-| 360d | 2025-11-26 | 22 | 2288 | 638 | 1390 | 231 | 4712 |
-| last720d | 2024-12-01 | 22 | 2288 | 638 | 1390 | 231 | 5391 |
+| 30d | 2026-10-23 | 3 | 217 | 31 | 29 | 29 | 336 |
+| last60d | 2026-09-23 | 3 | 535 | 147 | 69 | 46 | 849 |
+| 90d | 2026-08-24 | 4 | 739 | 201 | 100 | 58 | 1213 |
+| last180d | 2026-05-26 | 7 | 1403 | 305 | 362 | 107 | 2684 |
+| 360d | 2025-11-27 | 23 | 2291 | 641 | 1390 | 231 | 4715 |
+| last720d | 2024-12-02 | 23 | 2291 | 641 | 1390 | 231 | 5394 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [nanobot-tui-darwin-arm64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-darwin-arm64.zip) | 26.7 MiB | `native/darwin/arm64` |
-| [nanobot-tui-darwin-arm64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-darwin-arm64.zip.sha256) | 95 B | `native/darwin/arm64` |
-| [nanobot-tui-darwin-x64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-darwin-x64.zip) | 29.1 MiB | `native/darwin/x64` |
-| [nanobot-tui-darwin-x64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-darwin-x64.zip.sha256) | 93 B | `native/darwin/x64` |
-| [nanobot-tui-linux-arm64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-linux-arm64.zip) | 45.2 MiB | `native/linux/arm64` |
-| [nanobot-tui-linux-arm64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-linux-arm64.zip.sha256) | 94 B | `native/linux/arm64` |
-| [nanobot-tui-linux-x64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-linux-x64.zip) | 45.6 MiB | `other` |
-| [nanobot-tui-linux-x64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-linux-x64.zip.sha256) | 92 B | `other` |
-| [nanobot-tui-win32-x64.exe.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-win32-x64.exe.zip) | 44.8 MiB | `native/win/x64` |
-| [nanobot-tui-win32-x64.exe.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot-tui-win32-x64.exe.zip.sha256) | 96 B | `native/win/x64` |
-| [nanobot_ai-0.4.1-py3-none-macosx_13_0_arm64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-macosx_13_0_arm64.whl) | 42.1 MiB | `native/darwin/arm64` |
-| [nanobot_ai-0.4.1-py3-none-macosx_13_0_x86_64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-macosx_13_0_x86_64.whl) | 44.6 MiB | `native/darwin/x64` |
-| [nanobot_ai-0.4.1-py3-none-manylinux_2_17_aarch64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-manylinux_2_17_aarch64.whl) | 60.7 MiB | `native/linux/arm64` |
-| [nanobot_ai-0.4.1-py3-none-manylinux_2_17_x86_64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-manylinux_2_17_x86_64.whl) | 61.2 MiB | `native/linux/x64` |
-| [nanobot_ai-0.4.1-py3-none-win_amd64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1-py3-none-win_amd64.whl) | 60.3 MiB | `other` |
-| [nanobot_ai-0.4.1.tar.gz](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/nanobot_ai-0.4.1.tar.gz) | 14.5 MiB | `native/unknown` |
-| [release-manifest.json](https://github.com/HKUDS/nanobot/releases/download/v0.4.1/release-manifest.json) | 3.0 KiB | `other` |
+| [nanobot-tui-darwin-arm64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-darwin-arm64.zip) | 26.7 MiB | `native/darwin/arm64` |
+| [nanobot-tui-darwin-arm64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-darwin-arm64.zip.sha256) | 95 B | `native/darwin/arm64` |
+| [nanobot-tui-darwin-x64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-darwin-x64.zip) | 29.1 MiB | `native/darwin/x64` |
+| [nanobot-tui-darwin-x64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-darwin-x64.zip.sha256) | 93 B | `native/darwin/x64` |
+| [nanobot-tui-linux-arm64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-linux-arm64.zip) | 45.2 MiB | `native/linux/arm64` |
+| [nanobot-tui-linux-arm64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-linux-arm64.zip.sha256) | 94 B | `native/linux/arm64` |
+| [nanobot-tui-linux-x64.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-linux-x64.zip) | 45.6 MiB | `other` |
+| [nanobot-tui-linux-x64.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-linux-x64.zip.sha256) | 92 B | `other` |
+| [nanobot-tui-win32-x64.exe.zip](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-win32-x64.exe.zip) | 44.8 MiB | `native/win/x64` |
+| [nanobot-tui-win32-x64.exe.zip.sha256](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-win32-x64.exe.zip.sha256) | 96 B | `native/win/x64` |
+| [nanobot_ai-0.4.2-py3-none-macosx_13_0_arm64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-macosx_13_0_arm64.whl) | 38.9 MiB | `native/darwin/arm64` |
+| [nanobot_ai-0.4.2-py3-none-macosx_13_0_x86_64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-macosx_13_0_x86_64.whl) | 41.4 MiB | `native/darwin/x64` |
+| [nanobot_ai-0.4.2-py3-none-manylinux_2_17_aarch64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-manylinux_2_17_aarch64.whl) | 57.5 MiB | `native/linux/arm64` |
+| [nanobot_ai-0.4.2-py3-none-manylinux_2_17_x86_64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-manylinux_2_17_x86_64.whl) | 58.0 MiB | `native/linux/x64` |
+| [nanobot_ai-0.4.2-py3-none-win_amd64.whl](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-win_amd64.whl) | 57.1 MiB | `other` |
+| [nanobot_ai-0.4.2.tar.gz](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2.tar.gz) | 11.9 MiB | `native/unknown` |
+| [release-manifest.json](https://github.com/HKUDS/nanobot/releases/download/v0.4.2/release-manifest.json) | 3.0 KiB | `other` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ nanobot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T06:09:00Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T05:44:00Z._
