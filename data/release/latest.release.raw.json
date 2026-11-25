@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 27994049,
       "digest": "sha256:de1145d7c5e795d193009c76d1a2422039e6492804282244b87cef94b842050f",
-      "download_count": 31,
+      "download_count": 38,
       "created_at": "2026-11-21T13:10:25Z",
       "updated_at": "2026-11-21T13:18:50Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-darwin-arm64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:5939e10b53e5eacd55d3157957b1a9fec627aa01c57bd8e72fa846b615c8742b",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-11-21T13:10:27Z",
       "updated_at": "2026-11-21T13:10:27Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-darwin-arm64.zip.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 30535026,
       "digest": "sha256:f9f0d8018436e91146966c89e9c273b8def975832788e0d088795860bf8e62b0",
-      "download_count": 22,
+      "download_count": 30,
       "created_at": "2026-11-21T13:10:25Z",
       "updated_at": "2026-11-21T13:19:39Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-darwin-x64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 47440366,
       "digest": "sha256:dfb05404dbae883e1fa9e449cf69acccee32609ca59ba4d230df11fd32a8b3af",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-11-21T13:10:26Z",
       "updated_at": "2026-11-21T13:14:13Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-linux-arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 47851562,
       "digest": "sha256:1aa2870c295ef0e9cd77ad53ab088e62c694e59d555a3b288e0d114054955a47",
-      "download_count": 22,
+      "download_count": 25,
       "created_at": "2026-11-21T13:10:30Z",
       "updated_at": "2026-11-21T13:14:21Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-linux-x64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 46927624,
       "digest": "sha256:05322bbe8c61acb66e57ec5e90006d6e11b1f9df4759554b9a5deb84d099edb0",
-      "download_count": 38,
+      "download_count": 63,
       "created_at": "2026-11-21T13:10:36Z",
       "updated_at": "2026-11-21T13:14:26Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-win32-x64.exe.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:381d4561a82979da3eb8c66978d2fd0de8abdbe3ead8dc72a84318eb19903ab3",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-21T13:14:15Z",
       "updated_at": "2026-11-21T13:14:16Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot-tui-win32-x64.exe.zip.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 40803993,
       "digest": "sha256:e41ce2bb607485ee37c57716576929f15cf04d455d34b9480be8a30cd347bff9",
-      "download_count": 48,
+      "download_count": 53,
       "created_at": "2026-11-21T13:14:18Z",
       "updated_at": "2026-11-21T13:17:33Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-macosx_13_0_arm64.whl"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 43407693,
       "digest": "sha256:2e96e13662c835481387a2521824d53f12c94aded9d5460ea8a0cef7232a34f8",
-      "download_count": 47,
+      "download_count": 51,
       "created_at": "2026-11-21T13:14:24Z",
       "updated_at": "2026-11-21T13:17:49Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-macosx_13_0_x86_64.whl"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 60324077,
       "digest": "sha256:4589c0b7a5aa4e4341898420235f52a4616f87019ce10580b3b10cd5e74722f9",
-      "download_count": 13,
+      "download_count": 18,
       "created_at": "2026-11-21T13:14:29Z",
       "updated_at": "2026-11-21T13:19:07Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-manylinux_2_17_aarch64.whl"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 60789459,
       "digest": "sha256:5c43d4d884840d3fe2ead1ae4ff9364962d1be50827b40cca1bcd09ce4fe96c8",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-11-21T13:17:35Z",
       "updated_at": "2026-11-21T13:20:57Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-manylinux_2_17_x86_64.whl"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 59893537,
       "digest": "sha256:bfe9488ec0703ea624cbcba9a916e09bdc63b98831e19a912c94a2be652dd3f0",
-      "download_count": 49,
+      "download_count": 56,
       "created_at": "2026-11-21T13:17:51Z",
       "updated_at": "2026-11-21T13:20:59Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2-py3-none-win_amd64.whl"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 12511410,
       "digest": "sha256:a2ca0ab20e3604debfc01c783dc17155cbe58ce85e8064864a1e2f79ffabad33",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-11-21T13:18:52Z",
       "updated_at": "2026-11-21T13:19:47Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/nanobot_ai-0.4.2.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3036,
       "digest": "sha256:5326bab4ca5ae7b4924cd1e373420a5bebb2b9ef8da3af5043057e6bed2af2e9",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-11-21T13:21:02Z",
       "updated_at": "2026-11-21T13:21:02Z",
       "browser_download_url": "https://github.com/HKUDS/nanobot/releases/download/v0.4.2/release-manifest.json"
